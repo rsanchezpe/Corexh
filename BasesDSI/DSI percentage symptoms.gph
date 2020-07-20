@@ -1,0 +1,533 @@
+StataFileTM:00001:01000:LiveGPH:                       :
+00003:00003:
+*! classname: twowaygraph_g
+*! family: twoway
+*! command: twoway (connected isd01 momento) (scatter isd02 momento) (connected isd03 momento) (connected isd04 momento) (connected isd05 momento) (connected isd06 momento) (connected isd07 momento) (connected isd08 momento) (connected isd09 momento) (connected isd10 momento) (connected isd11 momento) (connected isd12 momento) (connected isd13 momento) (connected isd14 momento) (connected isd15 momento) (connected isd16 momento) (connected isd17 momento) (connected isd18 momento) (connected isd19 momento) (connected isd20 momento) (connected isd21 momento) (connected isd22 momento) (connected isd23 momento) (connected isd24 momento) (connected isd25 momento) (connected isd26 momento) (connected isd27 momento) (connected isd28 momento) (connected isd29 momento) (connected isd30 momento),scheme(mrc)
+*! command_date:  7 May 2019
+*! command_time: 12:19:41
+*! datafile: 
+*! datafile_date: 
+*! scheme: s2color
+*! naturallywhite: 1
+*! xsize: 5.5
+*! ysize: 4
+*! end
+<BeginItem> serset Ke379848 
+<BeginSerset>
+<BeginSeries>
+.name = `"isd01"'
+.label = `"ISD01"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  26.5
+.max =  28.29000091552734
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"momento"'
+.label = `""'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  0
+.max =  2
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd02"'
+.label = `"ISD02"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  21.3799991607666
+.max =  23.19000053405762
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd03"'
+.label = `"ISD03"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  9.229999542236328
+.max =  11.02999973297119
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd04"'
+.label = `"ISD04"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  14.3100004196167
+.max =  18.35000038146973
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd05"'
+.label = `"ISD05"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  27.88999938964844
+.max =  29.88999938964844
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd06"'
+.label = `"ISD06"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  41.84999847412109
+.max =  48.41999816894531
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd07"'
+.label = `"ISD07"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  18.18000030517578
+.max =  20.21999931335449
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd08"'
+.label = `"ISD08"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  20.45999908447266
+.max =  24.47999954223633
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd09"'
+.label = `"ISD09"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  20.6200008392334
+.max =  27.17000007629395
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd10"'
+.label = `"ISD10"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  26.35000038146973
+.max =  26.71999931335449
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd11"'
+.label = `"ISD11"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  35.41999816894531
+.max =  37.79000091552734
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd12"'
+.label = `"ISD12"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  53.52000045776367
+.max =  54.77000045776367
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd13"'
+.label = `"ISD13"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  33.13000106811523
+.max =  35.70999908447266
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd14"'
+.label = `"ISD14"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  40.95999908447266
+.max =  42.93000030517578
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd15"'
+.label = `"ISD15"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  42.18999862670898
+.max =  43.31000137329102
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd16"'
+.label = `"ISD16"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  16.14999961853027
+.max =  45.38999938964844
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd17"'
+.label = `"ISD17"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  37.38000106811523
+.max =  44.52999877929688
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd18"'
+.label = `"ISD18"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  28.40999984741211
+.max =  36.81000137329102
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd19"'
+.label = `"ISD19"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  30.1299991607666
+.max =  47.04000091552734
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd20"'
+.label = `"ISD20"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  20.29999923706055
+.max =  58
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd21"'
+.label = `"ISD21"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  37.15000152587891
+.max =  44.63999938964844
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd22"'
+.label = `"ISD22"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  33.95000076293945
+.max =  43.81999969482422
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd23"'
+.label = `"ISD23"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  26.04999923706055
+.max =  32.47000122070313
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd24"'
+.label = `"ISD24"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  44.68000030517578
+.max =  52.63999938964844
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd25"'
+.label = `"ISD25"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  43.45000076293945
+.max =  46.06999969482422
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd26"'
+.label = `"ISD26"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  30.44000053405762
+.max =  31.39999961853027
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd27"'
+.label = `"ISD27"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  40.47000122070313
+.max =  41.13999938964844
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd28"'
+.label = `"ISD28"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  26.04000091552734
+.max =  29.45000076293945
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd29"'
+.label = `"ISD29"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  40.11999893188477
+.max =  43.16999816894531
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"isd30"'
+.label = `"ISD30"'
+.format = `"%8.0g"'
+.type.set numeric
+.min =  39
+.max =  42.90000152587891
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite       ˛˚˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛isd01                                                 momento                                               isd02                                                 isd03                                                 isd04                                                 isd05                                                 isd06                                                 isd07                                                 isd08                                                 isd09                                                 isd10                                                 isd11                                                 isd12                                                 isd13                                                 isd14                                                 isd15                                                 isd16                                                 isd17                                                 isd18                                                 isd19                                                 isd20                                                 isd21                                                 isd22                                                 isd23                                                 isd24                                                 isd25                                                 isd26                                                 isd27                                                 isd28                                                 isd29                                                 isd30                                                 %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                            %8.0g                                                 Ä:@           †Ga5@   Ä¬u"@   `∏û,@    ◊„;@   ¿ÃÏD@   Ä.2@   Ä¬u4@   `∏û4@   †ôY:@   Ä¬µA@   `è¬J@   ‡£ê@@   @·zD@   ‡QE@   `f&0@   ‡£∞B@   ¿ıh<@   †G!>@   ¿ÃL4@   @3ìB@   †ô˘@@   ¿Ã:@   @
+WF@   †ôπE@   ‡£p>@    )<D@   Ä=
+:@    \D@     ÄC@   Ä=J<@       @   ‡£07@    \&@   †ôY2@    ◊„=@   Ä¬5H@   ‡Q84@   @·z8@    Ö+;@   ‡Q∏:@   ¿ÂB@   `èbK@   @·⁄A@   @
+wE@    ÆßE@   ÄÎ±F@    ◊CF@    ÆgB@   ¿ÖG@      M@   ÄÎQF@   ¿ıËE@    )<@@   ÄÎQJ@   ¿ıG@   `ff?@   ÄÎëD@   @3s=@   Ä¬ïE@   @3sE@R∏‡A ÖπA·z0AH·äA∏ﬂAÆABè¬°AH·ÆA)\ŸAÕÃ“Aˆ(B{VBÖB
+◊#Bq=-B)\üA§pBq=B=
+ÒA  [B\è2BÆG/Bff–Aè¬EBÆG8BÖÛAff$BöôÎAÆG(B  BÏQ‚A∏ØAÆAÕÃíA∏ÔAè¬5B◊£íA
+◊√AÕÃ∆Aè¬’AÆB·zXB
+◊BR∏+Bè¬(B\è5B∏2BÆG„Aˆ(<Bff¢AöôBÕÃBH·B\èRBÆG5B33˚AH·!B·zËA·z B  !B  ‘A=
+´AÆA√ıdA
+◊ÈAff'B§pëAÆ£A√ı§AÆG’Aˆ(B{[BÖB  (BÏQ,B33ÅAÖBöôBˆ(ˆA  hBq=)B◊£'BÕÃ“AR∏2BÕÃ-BÆGıA\è$BÏQ–AÆ,Böô+B
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> scheme Kd30c2e8 
+.setscheme , scheme(s2color) naturallywhite(1)
+<EndItem>
+<BeginItem> twowaygraph_g Kee06e08 <UseScheme> Kd30c2e8
+.sersets[1] = .__Map.Ke379848.ref
+.insert (plotregion1 = .plotregion.new , style(scheme twoway) graph(`.objkey')) at 1 1
+.plotregion1.Declare plot1 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd01') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p1) 
+.plotregion1.Declare plot2 = .yxview.new , type(scatter) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd02') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p2) 
+.plotregion1.Declare plot3 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd03') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p3) 
+.plotregion1.Declare plot4 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd04') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p4) 
+.plotregion1.Declare plot5 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd05') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p5) 
+.plotregion1.Declare plot6 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd06') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p6) 
+.plotregion1.Declare plot7 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd07') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p7) 
+.plotregion1.Declare plot8 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd08') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p8) 
+.plotregion1.Declare plot9 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd09') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p9) 
+.plotregion1.Declare plot10 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd10') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p10) 
+.plotregion1.Declare plot11 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd11') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p11) 
+.plotregion1.Declare plot12 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd12') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p12) 
+.plotregion1.Declare plot13 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd13') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p13) 
+.plotregion1.Declare plot14 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd14') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p14) 
+.plotregion1.Declare plot15 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd15') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p15) 
+.plotregion1.Declare plot16 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd16') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p1) 
+.plotregion1.Declare plot17 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd17') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p2) 
+.plotregion1.Declare plot18 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd18') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p3) 
+.plotregion1.Declare plot19 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd19') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p4) 
+.plotregion1.Declare plot20 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd20') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p5) 
+.plotregion1.Declare plot21 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd21') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p6) 
+.plotregion1.Declare plot22 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd22') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p7) 
+.plotregion1.Declare plot23 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd23') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p8) 
+.plotregion1.Declare plot24 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd24') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p9) 
+.plotregion1.Declare plot25 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd25') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p10) 
+.plotregion1.Declare plot26 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd26') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p11) 
+.plotregion1.Declare plot27 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd27') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p12) 
+.plotregion1.Declare plot28 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd28') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p13) 
+.plotregion1.Declare plot29 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd29') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p14) 
+.plotregion1.Declare plot30 = .yxview.new , type(connected) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof isd30') xvariable(`.sersets[1].seriesof momento')    plotregion(`.plotregion1.objkey') style(scheme p15) 
+.plotregion1.clear_scales
+.plotregion1.reset_scales , noclear
+.n_views = 30
+.n_plotregions = 1
+.last_style = 30
+.x_scales = `" "1""'
+.y_scales = `" "1""'
+.create_axes 1 1 "9" "" 9
+.insert (legend = .legend_g.new, graphs(`.objkey') style(scheme)) below plotregion1 , ring(3) 
+.legend.style.editstyle box_alignment(S) editcopy
+.legend.insert (note = .sized_textbox.new, mtextq(`""') style(scheme leg_note) ) below plotregion1 , ring(3) 
+.legend.note.style.editstyle box_alignment(SW) editcopy
+.legend.note.style.editstyle horizontal(left) editcopy
+.legend.insert (caption = .sized_textbox.new, mtextq(`""') style(scheme leg_caption) ) below plotregion1 , ring(5) 
+.legend.caption.style.editstyle box_alignment(SW) editcopy
+.legend.caption.style.editstyle horizontal(left) editcopy
+.legend.insert (subtitle = .sized_textbox.new, mtextq(`""') style(scheme leg_subtitle) ) above plotregion1 , ring(6) 
+.legend.subtitle.style.editstyle box_alignment(N) editcopy
+.legend.subtitle.style.editstyle horizontal(center) editcopy
+.legend.insert (title = .sized_textbox.new, mtextq(`""') style(scheme leg_title) ) above plotregion1 , ring(7) 
+.legend.title.style.editstyle box_alignment(N) editcopy
+.legend.title.style.editstyle horizontal(center) editcopy
+.legend.rebuild
+.legend.repositionkeys
+.insert (r1title = .sized_textbox.new, mtextq(`""') style(scheme r1title) orientation(vertical)) rightof plotregion1 , ring(1) 
+.insert (r2title = .sized_textbox.new, mtextq(`""') style(scheme r2title) orientation(vertical)) rightof plotregion1 , ring(2) 
+.insert (l1title = .sized_textbox.new, mtextq(`""') style(scheme l1title) orientation(vertical)) leftof plotregion1 , ring(1) 
+.insert (l2title = .sized_textbox.new, mtextq(`""') style(scheme l2title) orientation(vertical)) leftof plotregion1 , ring(2) 
+.insert (t1title = .sized_textbox.new, mtextq(`""') style(scheme t1title) ) above plotregion1 , ring(1) 
+.insert (t2title = .sized_textbox.new, mtextq(`""') style(scheme t2title) ) above plotregion1 , ring(2) 
+.insert (b1title = .sized_textbox.new, mtextq(`""') style(scheme b1title) ) below plotregion1 , ring(1) 
+.insert (b2title = .sized_textbox.new, mtextq(`""') style(scheme b1title) ) below plotregion1 , ring(2) 
+.insert (note = .sized_textbox.new, mtextq(`""') style(scheme note) ) below plotregion1 , ring(4) 
+.note.style.editstyle box_alignment(SW) editcopy
+.note.style.editstyle horizontal(left) editcopy
+.insert (caption = .sized_textbox.new, mtextq(`""') style(scheme caption) ) below plotregion1 , ring(5) 
+.caption.style.editstyle box_alignment(SW) editcopy
+.caption.style.editstyle horizontal(left) editcopy
+.insert (subtitle = .sized_textbox.new, mtextq(`""') style(scheme subtitle) ) above plotregion1 , ring(6) 
+.subtitle.style.editstyle box_alignment(N) editcopy
+.subtitle.style.editstyle horizontal(center) editcopy
+.insert (title = .sized_textbox.new, mtextq(`""') style(scheme title) ) above plotregion1 , ring(7) 
+.title.style.editstyle box_alignment(N) editcopy
+.title.style.editstyle horizontal(center) editcopy
+.insert (spacert = .spacer.new) above plotregion1 , ring(11)
+.insert (spacerb = .spacer.new) below plotregion1 , ring(11)
+.insert (spacerl = .spacer.new) leftof plotregion1 , ring(11)
+.insert (spacerr = .spacer.new) rightof plotregion1 , ring(11)
+.command = `"twoway (connected isd01 momento) (scatter isd02 momento) (connected isd03 momento) (connected isd04 momento) (connected isd05 momento) (connected isd06 momento) (connected isd07 momento) (connected isd08 momento) (connected isd09 momento) (connected isd10 momento) (connected isd11 momento) (connected isd12 momento) (connected isd13 momento) (connected isd14 momento) (connected isd15 momento) (connected isd16 momento) (connected isd17 momento) (connected isd18 momento) (connected isd19 momento) (connected isd20 momento) (connected isd21 momento) (connected isd22 momento) (connected isd23 momento) (connected isd24 momento) (connected isd25 momento) (connected isd26 momento) (connected isd27 momento) (connected isd28 momento) (connected isd29 momento) (connected isd30 momento),scheme(mrc)"'
+.date = " 7 May 2019"
+.time = "12:19:41"
+.dta_file = ""
+.dta_date = ""
+.legend.plotregion1.label[1].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[5].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[3].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[7].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[9].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[11].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[13].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[15].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[2].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[4].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[6].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[8].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[10].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[12].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[14].style.editstyle size(vsmall) editcopy
+.legend.plotregion1.label[16].style.editstyle size(vsmall) editcopy
+.xaxis1.title.text = {}
+.xaxis1.title.text.Arrpush Month
+.xaxis1.reset_rule 0 12 6 , tickset(major) ruletype(range) 
+.xaxis1.reset_rule 0 2 1 , tickset(major) ruletype(range) 
+.xaxis1.reset_rule 0 2 1 , tickset(major) ruletype(range) 
+.xaxis1.major.num_rule_ticks = 3
+.xaxis1.edit_tick 2 1 `"6"', tickset(major)
+.xaxis1.major.num_rule_ticks = 2
+.xaxis1.edit_tick 2 2 `"12"', tickset(major)
+.legend.Edit , style(cols(4)) style(rows(0)) keepstyles 
+.xaxis1.style.editstyle majorstyle(tickstyle(textstyle(size(vsmall)))) editcopy
+.xaxis1.style.editstyle majorstyle(tickstyle(textstyle(size(small)))) editcopy
+.xaxis1.style.editstyle majorstyle(tickstyle(textstyle(size(vsmall)))) editcopy
+.xaxis1.style.editstyle majorstyle(tickstyle(textstyle(size(small)))) editcopy
+.yaxis1.style.editstyle minornlstyle(tickstyle(show_labels(yes))) editcopy
+.yaxis1.title.text = {}
+.yaxis1.title.text.Arrpush Percent positive
+.yaxis1.style.editstyle minornlstyle(tickstyle(show_labels(no))) editcopy
+.yaxis1.style.editstyle majorstyle(tickstyle(textstyle(size(tiny)))) editcopy
+.yaxis1.style.editstyle majorstyle(tickstyle(textstyle(size(small)))) editcopy
+.yaxis1.title.text = {}
+.yaxis1.title.text.Arrpush % positive
+.yaxis1.title.text = {}
+.yaxis1.title.text.Arrpush % Positive
+<EndItem>
